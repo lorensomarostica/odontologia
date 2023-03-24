@@ -1,0 +1,21 @@
+Intens necessarios:
+
+Navbar com 3 botoes: inicio,serviço e contato
+
+Slide de Fotos
+
+História: (texto e foto)-600x400
+
+Serviços: 6 cards-Bootstrap
+------------------------------------------------------
+Formulario.
+
+Tamanhos: pixels
+Logo-80x80
+Slide de fotos-1400x500
+Cards-1280x720
+1920x500-talvez (informação do card)
+-------------------------------------------------------
+Abrir um container, e cada item deve ter um row(linha) e dentro de cada row deve ter uma col(coluna)
+
+Nome do site para fazer os cards é: Sinaxys, blog.sinaxys.com/especialidades-odontologicas/
